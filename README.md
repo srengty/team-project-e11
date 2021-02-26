@@ -1,4 +1,4 @@
-# hello
+# hello v1.x
 There are 3 students learning team project sessions.
 
 # How to install
